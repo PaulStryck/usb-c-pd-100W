@@ -12,5 +12,5 @@ To avoid high cost of 2oz copper layers for one-offs an alternative cooling solu
 
 ### TODO:
 - Route PCB
-- Feedback Control Loop of the Buck-Boost controller. Key challenge is to keep it stable on entire output range. The chosen Inductor seems to be a good choice. Control loop might have to done experimentally.
+- Feedback Control Loop of the Buck-Boost controller. Key challenge is to keep it stable on entire output range. The chosen inductor seems to be a good choice. Control loop might have to be done experimentally.
 - Thermal design
