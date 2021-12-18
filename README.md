@@ -1,4 +1,4 @@
-PCB to support 2 USB-C PD charging ports operating on 9-36V and supporting up to 100W charing profiles.
+PCB to support 2 USB-C PD charging ports operating on 9-36V input voltage and supporting up to 100W charging profiles.
 
 The idea of this PCB was to work on boats and cars and support up to 100W usb-c pd output.
 The PCB is build around the TPS65988 from Texas Instruments. 
